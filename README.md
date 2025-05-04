@@ -39,4 +39,4 @@ File I/O
 - `blackjack_log.txt` is appended after each round with timestamp, hands, totals, and outcome.
 
 Testing  
-All core classes have `unittest` coverage in `tests/`.
+All core classes have `unittest` in `tests/`.
